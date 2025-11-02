@@ -11,7 +11,7 @@
 ## 🔥 Skills & Interests  
 - 📚 **English Literature & Creative Writing**  
 - 🎭 **Drama, Theater & Acting**  
-- 💻 **Programming Languages**: C++, Python  
+- 💻 **Programming Languages**: C++, Python , Java , C
 - 🔐 **Cybersecurity Fundamentals**  
 - 🎯 **Critical Thinking & Analysis**  
 
