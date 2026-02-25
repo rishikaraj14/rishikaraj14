@@ -23,34 +23,16 @@
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rishikaraj14&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rishikaraj14&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikaraj14&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikaraj14&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rishikaraj14&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rishikaraj14&theme=gruvbox_light&hide_border=false" />
+</p>
 
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rishikaraj14&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
-
-![](https://visitcount.itsvg.in/api?id=rishikaraj14&icon=9&color=13)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikaraj14&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
