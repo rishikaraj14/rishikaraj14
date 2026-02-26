@@ -38,14 +38,17 @@
 
 # 📊 GitHub Stats
 
-## 📈 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikaraj14&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikaraj14&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+</p>
 
-## 🔥 Contribution Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikaraj14&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikaraj14&theme=tokyonight" />
+</p>
 
-## 🧠 Top Languages
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishikaraj14&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikaraj14&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
